@@ -1,2 +1,128 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0"><channel><title>Placeholder</title><link>https://example.com</link><description>x</description></channel></rss>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel>
+  <title>Novice – Mestna občina Nova Gorica</title>
+  <link>https://www.nova-gorica.si/sl/novice/</link>
+  <description>Novice Mestne občine Nova Gorica (neuradni RSS)</description>
+  <language>sl</language>
+  <atom:link href="https://YOUR_GITHUB_USER.github.io/news-feed/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+  <title>Z NOVIM VODOHRANOM V VITOVLJAH DO ZANESLJIVEJŠE IN VARNEJŠE OSKRBE S PITNO VODO</title>
+  <link>https://www.nova-gorica.si/sl/novice/z-novim-vodohranom-v-vitovljah-do-zanesljivejse-in-varnejse-oskrbe-s-pitno-vodo/</link>
+  <guid isPermaLink="true">https://www.nova-gorica.si/sl/novice/z-novim-vodohranom-v-vitovljah-do-zanesljivejse-in-varnejse-oskrbe-s-pitno-vodo/</guid>
+  <pubDate>Thu, 05 Nov 2026 12:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>JOBSTART V NOVI GORICI - BREZPLAČEN ČEZMEJNI KARIERNI SEJEM IN DELAVNICE ZA MLADE</title>
+  <link>https://www.nova-gorica.si/sl/novice/jobstart-v-novi-gorici-brezplacen-cezmejni-karierni-sejem-in-delavnice-za-mlade/</link>
+  <guid isPermaLink="true">https://www.nova-gorica.si/sl/novice/jobstart-v-novi-gorici-brezplacen-cezmejni-karierni-sejem-in-delavnice-za-mlade/</guid>
+  <pubDate>Tue, 03 Nov 2026 12:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>PO SLEDEH FRANCOSKEGA KRALJA KARLA X. IN RODBINE BURBONOV</title>
+  <link>https://www.nova-gorica.si/sl/novice/po-sledeh-francoskega-kralja-karla-x-in-rodbine-burbonov/</link>
+  <guid isPermaLink="true">https://www.nova-gorica.si/sl/novice/po-sledeh-francoskega-kralja-karla-x-in-rodbine-burbonov/</guid>
+  <pubDate>Tue, 03 Nov 2026 12:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>GO4TRAIL 2026: V SOLKANU PRIČAKUJEMO 550 TEKAČEV IZ 14 DRŽAV</title>
+  <link>https://www.nova-gorica.si/sl/novice/go4trail-2026-v-solkanu-pricakujemo-550-tekacev-iz-14-drzav/</link>
+  <guid isPermaLink="true">https://www.nova-gorica.si/sl/novice/go4trail-2026-v-solkanu-pricakujemo-550-tekacev-iz-14-drzav/</guid>
+  <pubDate>Tue, 03 Nov 2026 12:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>NA TRNOVEM PRI GORICI POČASTILI SPOMIN NA UMRLE</title>
+  <link>https://www.nova-gorica.si/sl/novice/na-trnovem-pri-gorici-pocastili-spomin-na-umrle/</link>
+  <guid isPermaLink="true">https://www.nova-gorica.si/sl/novice/na-trnovem-pri-gorici-pocastili-spomin-na-umrle/</guid>
+  <pubDate>Mon, 02 Nov 2026 12:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>VABILO NA ODPRTJE VODOHRANA VITOVLJE</title>
+  <link>https://www.nova-gorica.si/sl/novice/vabilo-na-odprtje-vodohrana-vitovlje/</link>
+  <guid isPermaLink="true">https://www.nova-gorica.si/sl/novice/vabilo-na-odprtje-vodohrana-vitovlje/</guid>
+  <pubDate>Mon, 02 Nov 2026 12:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>PREVENTIVNA AKCIJA »BREZ ALKOHOLA«</title>
+  <link>https://www.nova-gorica.si/sl/novice/preventivna-akcija-brez-alkohola/</link>
+  <guid isPermaLink="true">https://www.nova-gorica.si/sl/novice/preventivna-akcija-brez-alkohola/</guid>
+  <pubDate>Fri, 30 Oct 2026 12:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>JAVNA RAZGRNITEV ELABORATA LOKACIJSKE PREVERITVE »ZASELEK GORENJE VISOKO« ZA EUP VL-09/053</title>
+  <link>https://www.nova-gorica.si/sl/novice/javna-razgrnitev-elaborata-lokacijske-preveritve-zaselek-gorenje-visoko-za-eup-vl-09-053/</link>
+  <guid isPermaLink="true">https://www.nova-gorica.si/sl/novice/javna-razgrnitev-elaborata-lokacijske-preveritve-zaselek-gorenje-visoko-za-eup-vl-09-053/</guid>
+  <pubDate>Thu, 29 Oct 2026 12:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>OBVESTILO O KONČANEM NATEČAJNEM POSTOPKU »VIŠJI SVETOVALEC ZA PREKRŠKOVNI POSTOPEK« V SLUŽBI ZA MEDOBČINSKO INŠPEKCIJSKO IN MEDOBČINSKO REDARSKO SLUŽBO MEDOBČINSKE UPRAVE MESTNE OBČINE NOVA GORICA, OBČINE AJDOVŠČINA IN OBČINE BRDA</title>
+  <link>https://www.nova-gorica.si/sl/novice/obvestilo-o-koncanem-natecajnem-postopku-visji-svetovalec-za-prekrskovni-postopek-v-sluzbi-za-medobcinsko-inspekcijsko-in-medobcinsko-redarsko-sluzbo-medobcinske-uprave-mestne-obcine-nova-gorica-obcine-ajdovscina-in-obcine-brda/</link>
+  <guid isPermaLink="true">https://www.nova-gorica.si/sl/novice/obvestilo-o-koncanem-natecajnem-postopku-visji-svetovalec-za-prekrskovni-postopek-v-sluzbi-za-medobcinsko-inspekcijsko-in-medobcinsko-redarsko-sluzbo-medobcinske-uprave-mestne-obcine-nova-gorica-obcine-ajdovscina-in-obcine-brda/</guid>
+  <pubDate>Wed, 28 Oct 2026 12:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>SKLEP O SPREJEMU ELABORATA O OBLIKOVANJU CENE STORITEV GOSPODARSKE JAVNE SLUŽBE 24-URNE DEŽURNE SLUŽBE V MESTNI OBČINI NOVA GORICA ZA LETO 2026 IN CENE STORITVE</title>
+  <link>https://www.nova-gorica.si/sl/novice/sklep-o-sprejemu-elaborata-o-oblikovanju-cene-storitev-gospodarske-javne-sluzbe-24-urne-dezurne-sluzbe-v-mestni-obcini-nova-gorica-za-leto-2026-in-cene-storitve/</link>
+  <guid isPermaLink="true">https://www.nova-gorica.si/sl/novice/sklep-o-sprejemu-elaborata-o-oblikovanju-cene-storitev-gospodarske-javne-sluzbe-24-urne-dezurne-sluzbe-v-mestni-obcini-nova-gorica-za-leto-2026-in-cene-storitve/</guid>
+  <pubDate>Wed, 28 Oct 2026 12:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>POČASTITEV DNEVA SPOMINA NA MRTVE V MESTNI OBČINI NOVA GORICA</title>
+  <link>https://www.nova-gorica.si/sl/novice/pocastitev-dneva-spomina-na-mrtve-v-mestni-obcini-nova-gorica-2026102611213116384/</link>
+  <guid isPermaLink="true">https://www.nova-gorica.si/sl/novice/pocastitev-dneva-spomina-na-mrtve-v-mestni-obcini-nova-gorica-2026102611213116384/</guid>
+  <pubDate>Mon, 26 Oct 2026 12:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>MLADINSKI CENTER NOVA GORICA ODSLEJ V SREDIŠČU MESTA ŠE BLIŽJE MLADIM</title>
+  <link>https://www.nova-gorica.si/sl/novice/mladinski-center-nova-gorica-odslej-v-srediscu-mesta-se-blizje-mladim/</link>
+  <guid isPermaLink="true">https://www.nova-gorica.si/sl/novice/mladinski-center-nova-gorica-odslej-v-srediscu-mesta-se-blizje-mladim/</guid>
+  <pubDate>Fri, 23 Oct 2026 12:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>URBANA KONFERENCA 2026: POMEN MEHANIZMA CTN IN EVROPSKIH SREDSTEV ZA DOSTOPNOST IN TRAJNOSTNI RAZVOJ MEST</title>
+  <link>https://www.nova-gorica.si/sl/novice/urbana-konferenca-2026-pomen-mehanizma-ctn-in-evropskih-sredstev-za-dostopnost-in-trajnostni-razvoj-mest/</link>
+  <guid isPermaLink="true">https://www.nova-gorica.si/sl/novice/urbana-konferenca-2026-pomen-mehanizma-ctn-in-evropskih-sredstev-za-dostopnost-in-trajnostni-razvoj-mest/</guid>
+  <pubDate>Wed, 21 Oct 2026 12:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>NOVA GORICA Z EVROPSKIM PROJEKTOM GREENINCITIES DO NOVEGA ZELENEGA PARKA OB KORNU</title>
+  <link>https://www.nova-gorica.si/sl/novice/nova-gorica-z-evropskim-projektom-greenincities-do-novega-zelenega-parka-ob-kornu/</link>
+  <guid isPermaLink="true">https://www.nova-gorica.si/sl/novice/nova-gorica-z-evropskim-projektom-greenincities-do-novega-zelenega-parka-ob-kornu/</guid>
+  <pubDate>Tue, 20 Oct 2026 12:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>NOVOGORIŠKA MESTNA OBČINA NA GRADU RIHEMBERK GOSTILA SREČANJE PARTNERJEV PROJEKTA ZA KRAS 2</title>
+  <link>https://www.nova-gorica.si/sl/novice/novogoriska-mestna-obcina-na-gradu-rihemberk-gostila-srecanje-partnerjev-projekta-za-kras-2/</link>
+  <guid isPermaLink="true">https://www.nova-gorica.si/sl/novice/novogoriska-mestna-obcina-na-gradu-rihemberk-gostila-srecanje-partnerjev-projekta-za-kras-2/</guid>
+  <pubDate>Tue, 20 Oct 2026 12:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>DIGITALNA DOSTOPNOST ZA VSE</title>
+  <link>https://www.nova-gorica.si/sl/novice/digitalna-dostopnost-za-vse/</link>
+  <guid isPermaLink="true">https://www.nova-gorica.si/sl/novice/digitalna-dostopnost-za-vse/</guid>
+  <pubDate>Tue, 20 Oct 2026 12:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>RAZGLAS O NAJDENEM VOZILU - HONDA JAZZ</title>
+  <link>https://www.nova-gorica.si/sl/novice/razglas-o-najdenem-vozilu-honda-jazz/</link>
+  <guid isPermaLink="true">https://www.nova-gorica.si/sl/novice/razglas-o-najdenem-vozilu-honda-jazz/</guid>
+  <pubDate>Mon, 19 Oct 2026 12:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>RAZGLAS O NAJDENEM VOZILU - RENAULT CLIO</title>
+  <link>https://www.nova-gorica.si/sl/novice/razglas-o-najdenem-vozilu-renault-clio-2026101915172341111/</link>
+  <guid isPermaLink="true">https://www.nova-gorica.si/sl/novice/razglas-o-najdenem-vozilu-renault-clio-2026101915172341111/</guid>
+  <pubDate>Mon, 19 Oct 2026 12:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>VABILO NA ZAKLJUČNO KONFERENCO PROJEKTA DIGAREGION - DIGITALNO DOSTOPNA REGIJA</title>
+  <link>https://www.nova-gorica.si/sl/novice/vabilo-na-zakljucno-konferenco-projekta-digaregion-digitalno-dostopna-regija/</link>
+  <guid isPermaLink="true">https://www.nova-gorica.si/sl/novice/vabilo-na-zakljucno-konferenco-projekta-digaregion-digitalno-dostopna-regija/</guid>
+  <pubDate>Wed, 14 Oct 2026 12:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>ZADNJI FRANCOSKI KRALJ JE POKOPAN NA KOSTANJEVICI V NOVI GORICI – NJEGOVO ZGODBO BODO OBUDILI ŠTEVILNI ČEZMEJNI DOGODKI</title>
+  <link>https://www.nova-gorica.si/sl/novice/zadnji-francoski-kralj-je-pokopan-na-kostanjevici-v-novi-gorici-njegovo-zgodbo-bodo-obudili-stevilni-cezmejni-dogodki/</link>
+  <guid isPermaLink="true">https://www.nova-gorica.si/sl/novice/zadnji-francoski-kralj-je-pokopan-na-kostanjevici-v-novi-gorici-njegovo-zgodbo-bodo-obudili-stevilni-cezmejni-dogodki/</guid>
+  <pubDate>Tue, 13 Oct 2026 12:00:00 GMT</pubDate>
+</item>
+</channel></rss>
