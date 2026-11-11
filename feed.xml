@@ -6,6 +6,18 @@
   <language>sl</language>
   <atom:link href="https://YOUR_GITHUB_USER.github.io/news-feed/feed.xml" rel="self" type="application/rss+xml"/>
 <item>
+  <title>PREDČASNO GLASOVANJE V MESTNI OBČINI NOVA GORICA</title>
+  <link>https://www.nova-gorica.si/sl/novice/predcasno-glasovanje-v-mestni-obcini-nova-gorica/</link>
+  <guid isPermaLink="true">https://www.nova-gorica.si/sl/novice/predcasno-glasovanje-v-mestni-obcini-nova-gorica/</guid>
+  <pubDate>Tue, 10 Nov 2026 12:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>POMAGAJTE SOUSTVARITI NOVO MOBILNO APLIKACIJO NOVOGORIŠKE MESTNE OBČINE</title>
+  <link>https://www.nova-gorica.si/sl/novice/pomagajte-soustvariti-novo-mobilno-aplikacijo-novogoriske-mestne-obcine/</link>
+  <guid isPermaLink="true">https://www.nova-gorica.si/sl/novice/pomagajte-soustvariti-novo-mobilno-aplikacijo-novogoriske-mestne-obcine/</guid>
+  <pubDate>Tue, 10 Nov 2026 12:00:00 GMT</pubDate>
+</item>
+<item>
   <title>PROSTORSKO UREDITEV POSLOVNE CONE KROMBERK ZAHOD NAČRTUJEMO V SODELOVANJU S PODJETNIKI V CONI</title>
   <link>https://www.nova-gorica.si/sl/novice/prostorsko-ureditev-poslovne-cone-kromberk-zahod-nacrtujemo-v-sodelovanju-s-podjetniki-v-coni/</link>
   <guid isPermaLink="true">https://www.nova-gorica.si/sl/novice/prostorsko-ureditev-poslovne-cone-kromberk-zahod-nacrtujemo-v-sodelovanju-s-podjetniki-v-coni/</guid>
@@ -112,17 +124,5 @@
   <link>https://www.nova-gorica.si/sl/novice/razglas-o-najdenem-vozilu-honda-jazz/</link>
   <guid isPermaLink="true">https://www.nova-gorica.si/sl/novice/razglas-o-najdenem-vozilu-honda-jazz/</guid>
   <pubDate>Mon, 19 Oct 2026 12:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>RAZGLAS O NAJDENEM VOZILU - RENAULT CLIO</title>
-  <link>https://www.nova-gorica.si/sl/novice/razglas-o-najdenem-vozilu-renault-clio-2026101915172341111/</link>
-  <guid isPermaLink="true">https://www.nova-gorica.si/sl/novice/razglas-o-najdenem-vozilu-renault-clio-2026101915172341111/</guid>
-  <pubDate>Mon, 19 Oct 2026 12:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>VABILO NA ZAKLJUČNO KONFERENCO PROJEKTA DIGAREGION - DIGITALNO DOSTOPNA REGIJA</title>
-  <link>https://www.nova-gorica.si/sl/novice/vabilo-na-zakljucno-konferenco-projekta-digaregion-digitalno-dostopna-regija/</link>
-  <guid isPermaLink="true">https://www.nova-gorica.si/sl/novice/vabilo-na-zakljucno-konferenco-projekta-digaregion-digitalno-dostopna-regija/</guid>
-  <pubDate>Wed, 14 Oct 2026 12:00:00 GMT</pubDate>
 </item>
 </channel></rss>
