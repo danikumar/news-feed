@@ -6,6 +6,12 @@
   <language>sl</language>
   <atom:link href="https://YOUR_GITHUB_USER.github.io/news-feed/feed.xml" rel="self" type="application/rss+xml"/>
 <item>
+  <title>NOVA GORICA GRADI DOSTOPNEJŠO OBČINO ZA VSE</title>
+  <link>https://www.nova-gorica.si/sl/novice/nova-gorica-gradi-dostopnejso-obcino-za-vse/</link>
+  <guid isPermaLink="true">https://www.nova-gorica.si/sl/novice/nova-gorica-gradi-dostopnejso-obcino-za-vse/</guid>
+  <pubDate>Wed, 11 Nov 2026 12:00:00 GMT</pubDate>
+</item>
+<item>
   <title>PREDČASNO GLASOVANJE V MESTNI OBČINI NOVA GORICA</title>
   <link>https://www.nova-gorica.si/sl/novice/predcasno-glasovanje-v-mestni-obcini-nova-gorica/</link>
   <guid isPermaLink="true">https://www.nova-gorica.si/sl/novice/predcasno-glasovanje-v-mestni-obcini-nova-gorica/</guid>
@@ -118,11 +124,5 @@
   <link>https://www.nova-gorica.si/sl/novice/digitalna-dostopnost-za-vse/</link>
   <guid isPermaLink="true">https://www.nova-gorica.si/sl/novice/digitalna-dostopnost-za-vse/</guid>
   <pubDate>Tue, 20 Oct 2026 12:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>RAZGLAS O NAJDENEM VOZILU - HONDA JAZZ</title>
-  <link>https://www.nova-gorica.si/sl/novice/razglas-o-najdenem-vozilu-honda-jazz/</link>
-  <guid isPermaLink="true">https://www.nova-gorica.si/sl/novice/razglas-o-najdenem-vozilu-honda-jazz/</guid>
-  <pubDate>Mon, 19 Oct 2026 12:00:00 GMT</pubDate>
 </item>
 </channel></rss>
